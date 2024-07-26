@@ -20,7 +20,7 @@ Todas as tecnologias mencionadas são ferramentas essenciais para o desenvolvime
 
 ## 
 ## MySQL
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/9d0950d1-d295-44ee-ad33-49a02fdae435)
 
 O MySQL é um sistema de gerenciamento de banco de dados relacional (SGBD) de código aberto, utilizado para armazenar, organizar e recuperar informações de forma eficiente. É popular por sua facilidade de uso, escalabilidade e segurança.
 
@@ -31,15 +31,6 @@ O MySQL é um sistema de gerenciamento de banco de dados relacional (SGBD) de c�
 - Escalável: lida com grandes volumes de dados e tráfego
 - Fácil de usar: interface amigável e comandos SQL intuitivos
 - Seguro: recursos para proteger dados contra acessos não autorizados
-
-### Aplicações:
-
-- Sites dinâmicos (WordPress, Joomla, Drupal)
-- Lojas online
-- Aplicativos móveis
-- Sistemas de gerenciamento de conteúdo (CMS)
-- Aplicações financeiras
-- Sistemas de negócios
 
 ### Vantagens:
 
@@ -56,11 +47,20 @@ O MySQL é um sistema de gerenciamento de banco de dados relacional (SGBD) de c�
 - Desempenho: pode ser afetado por grandes volumes de dados
 - Manutenção: pode ser complexa
 
+- ### Aplicações:
+
+- Sites dinâmicos (WordPress, Joomla, Drupal)
+- Lojas online
+- Aplicativos móveis
+- Sistemas de gerenciamento de conteúdo (CMS)
+- Aplicações financeiras
+- Sistemas de negócios
+
 ## SQL
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/ee0322ef-462c-4076-96c6-22ee1376ea01)
+
 
 SQL (Structured Query Language) é a linguagem padrão para gerenciar dados em bancos de dados relacionais. Ela permite que usuários interajam com bancos de dados para diversas operações, como:
-
 - Armazenar e recuperar dados
 - Organizar e consultar informações
 - Gerenciar e controlar dados
@@ -72,14 +72,6 @@ SQL (Structured Query Language) é a linguagem padrão para gerenciar dados em b
 - Funções: processamento e transformação de dados
 - Agrupamentos: organização de dados para análises
 - Subconsultas: consultas aninhadas
-
-### Aplicações:
-
-- Sistemas de informação
-- Websites e lojas virtuais
-- Aplicações científicas e de pesquisa
-- Sistemas financeiros
-- Redes sociais
 
 ### Vantagens:
 
@@ -97,22 +89,25 @@ SQL (Structured Query Language) é a linguagem padrão para gerenciar dados em b
 - Dificuldades com dados semi-estruturados ou não estruturados.
 - Vulnerabilidades de segurança, como SQL Injection.
 
+- ### Aplicações:
+
+- Sistemas de informação
+- Websites e lojas virtuais
+- Aplicações científicas e de pesquisa
+- Sistemas financeiros
+- Redes sociais
+
 ## Node.js
-![alt text](unnamed.jpg)
-O Node.js se tornou uma ferramenta essencial para o desenvolvimento web moderno, oferecendo uma plataforma robusta e versátil para a criação de aplicações escaláveis e dinâmicas.
+![image](https://github.com/user-attachments/assets/7359e8c1-a900-4718-bc1f-6d95980f9986)
+
+Node.js é um ambiente de execução JavaScript que permite que você execute código JavaScript fora de um navegador web. Em outras palavras, ele transforma o JavaScript, tradicionalmente usado para criar interfaces interativas em páginas web, em uma ferramenta para desenvolver aplicações completas do lado do servidor.
+
+### Características: 
 
 - Unifica o desenvolvimento com JavaScript em back-end e front-end.
 - Oferece alta performance e responsividade.
 - É uma solução leve e escalável.
 - Possui um rico ecossistema de bibliotecas e frameworks.
-
-### Aplicações:
-
-- Servidores Web e APIs
-- Arquitetura de Microsserviços
-- Aplicações em Tempo Real
-- Ferramentas de Linha de Comando
-- Streaming de Dados
 
 ### Vantagens:
 
@@ -129,10 +124,20 @@ O Node.js se tornou uma ferramenta essencial para o desenvolvimento web moderno,
 - Menos eficiente em tarefas com alto uso de CPU
 - Limitações por usar um único thread
 
-## HTML 
-![alt text](image-3.png)
+- ### Aplicações:
 
-### Características principais:
+- Servidores Web e APIs
+- Arquitetura de Microsserviços
+- Aplicações em Tempo Real
+- Ferramentas de Linha de Comando
+- Streaming de Dados
+
+## HTML 
+![image](https://github.com/user-attachments/assets/2e302f35-b9c1-4618-beab-66d458f8a6f9)
+
+HTML (HyperText Markup Language, ou Linguagem de Marcação de Hipertexto, em português) é a linguagem padrão utilizada para criar a estrutura e o conteúdo das páginas da web. É como a espinha dorsal de um site, definindo a organização e a hierarquia das informações.
+
+### Características:
 
 - Estrutura o conteúdo em elementos como títulos, parágrafos, imagens e listas.
 - Define o tipo de cada elemento (título, parágrafo, imagem, etc.).
@@ -157,7 +162,7 @@ O Node.js se tornou uma ferramenta essencial para o desenvolvimento web moderno,
 - Utilizado para prototipagem de interfaces de usuário e em aplicações web básicas como jogos e calculadoras online.
 
 ## CSS 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/08c6cdf0-b61a-4f1d-9249-128cfe9b1ecc)
 
 O CSS (Cascading Style Sheets) é a linguagem de estilização para páginas da web. Ele complementa o HTML, fornecendo controle sobre a aparência visual do conteúdo, como cores, fontes, layout e posicionamento dos elementos. Imagine o CSS como a tinta, os móveis e a decoração da casa construída com HTML: ele torna o ambiente mais bonito, organizado e funcional.
 
@@ -177,12 +182,14 @@ O CSS (Cascading Style Sheets) é a linguagem de estilização para páginas da 
 - Torna o site mais atraente e fácil de usar.
 
 ### Desvantagens:
+
 - Curva de Aprendizado: Pode exigir tempo para aprender todas as funcionalidades.
 - Compatibilidade: Navegadores podem interpretar CSS de maneiras diferentes.
 - Desafios com Layouts Complexos: Criar designs avançados pode ser complicado sem técnicas adicionais.
 - Priorização do Conteúdo: Deve ser usado para complementar, não substituir conteúdo relevante.
 
 ### Aplicações:
+
 - Estilização de Páginas Web
 - Criação de Interfaces de Usuário
 - Desenvolvimento de Temas e Personalização
@@ -190,22 +197,33 @@ O CSS (Cascading Style Sheets) é a linguagem de estilização para páginas da 
 - Layouts Responsivos
 
 ## JavaScript
+![image](https://github.com/user-attachments/assets/72441999-636b-4a74-9cbf-1fcc7d77af90)
 
-JavaScript é uma linguagem de programação essencial para criar páginas web dinâmicas e interativas. Ela permite adicionar funcionalidades que vão além da estrutura e estilo fornecidos pelo HTML e CSS.
 
-### Vantagens
+JavaScript é uma linguagem de programação interpretada, de alto nível e multiparadigma, amplamente utilizada para criar páginas web dinâmicas e interativas. Em termos simples, ela permite que você adicione vida e comportamento a páginas web estáticas, tornando a experiência do usuário mais rica e envolvente.
+
+### Caraccterísticas:
+
+- Linguagem interpretada: O código JavaScript é executado diretamente pelo navegador, sem a necessidade de compilação prévia.
+- Orientada a objetos: Permite a criação de objetos e classes, facilitando a organização e reutilização de código.
+- Assíncrona: Permite executar várias tarefas ao mesmo tempo, sem bloquear a execução do código.
+- Baseada em eventos: Responde a eventos do usuário, como cliques, rolagens e mudanças no formulário, tornando as páginas web mais interativas.
+
+### Vantagens:
+
 - Interatividade: Cria páginas web dinâmicas.
 - Versatilidade: Usado no lado do cliente e do servidor.
 - Grande comunidade: Muitos recursos e bibliotecas disponíveis.
 - Integração com HTML e CSS: Cria páginas web completas.
 - Desenvolvimento de aplicativos: Web, mobile e desktop.
 
-### Desvantagens
+### Desvantagens:
+
 - Segurança: Vulnerável a código malicioso.
 - Compatibilidade entre navegadores: Pode haver diferenças.
 - Complexidade: Projetos complexos podem ser desafiadores.
 
-### Aplicações
+### Aplicações: 
 - Criação de interfaces dinâmicas: Menus, formulários, animações.
 - Manipulação do DOM: Alterando o conteúdo e a estrutura da página.
 - Validação de formulários: Verificando a entrada do usuário.
